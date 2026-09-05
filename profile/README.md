@@ -15,7 +15,7 @@ The Mekiki Framework is a research program by **Kengo Tomita** on what can and c
 - T2: https://doi.org/10.31235/osf.io/e9qw5_v2
 - T3: https://doi.org/10.35542/osf.io/hvbfe_v2
 - T4: https://doi.org/10.31235/osf.io/495wg_v1
-- T5: https://doi.org/10.31235/osf.io/593ah_v1
+- T5: https://doi.org/10.31235/osf.io/593ah_v3
 
 **Status (August 2026):** T1 is a preprint whose journal version is under peer review; T2–T5 are preprints.
 
